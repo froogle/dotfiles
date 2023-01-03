@@ -40,6 +40,7 @@ alias tree="exa --tree"
 alias vim="nvim"
 
 [ -f ~/.config/zshrc/froogles_secrets ] && source ~/.config/zshrc/froogles_secrets
+[ -f ~/.config/zshrc/work_settings ] && source ~/.config/zshrc/work_settings
 
 # Set PATH, MANPATH, etc., for Homebrew.
 # These all require additional packages, notably linux Homebrew
